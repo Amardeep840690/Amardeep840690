@@ -67,7 +67,7 @@ A full-stack polling application for creating polls, managing questions and opti
 
 **Tech:** Next.js • TypeScript • Node.js • Express.js • PostgreSQL • Drizzle ORM • JWT • Zod
 
-🔗 [GitHub](https://github.com/Amardeep840690/Polling_Application) • [Live Demo](#)
+🔗 [GitHub](https://github.com/Amardeep840690/Polling_Application) • [Live Demo](https://pollivo.vercel.app)
 
 ---
 
@@ -87,7 +87,7 @@ An AI-powered full-stack application built with a modern Next.js stack, featurin
 
 **Tech:** Next.js • TypeScript • PostgreSQL • Drizzle ORM • Clerk • Tailwind CSS • shadcn/ui
 
-🔗 [GitHub](https://github.com/Amardeep840690/v0-ai)
+🔗 [GitHub](https://github.com/Amardeep840690/v0-ai) • [Live Demo](https://v0studio.vercel.app)
 
 ---
 
